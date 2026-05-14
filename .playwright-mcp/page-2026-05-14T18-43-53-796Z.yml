@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a user profile card component
+            - img [ref=e57]
+          - generic [ref=e81]:
+            - img [ref=e84]
+            - generic [ref=e89]:
+              - generic [ref=e92]:
+                - img [ref=e93]
+                - text: Creating App.jsx
+              - separator [ref=e96]
+              - generic [ref=e99]:
+                - img [ref=e100]
+                - text: Creating UserProfileCard.jsx
+              - separator [ref=e103]
+              - generic [ref=e104]:
+                - paragraph [ref=e105]: "Done! Created a user profile card component with:"
+                - list [ref=e106]:
+                  - listitem [ref=e107]: Avatar with initials
+                  - listitem [ref=e108]: Name, title, and bio
+                  - listitem [ref=e109]: Location with icon
+                  - listitem [ref=e110]: Stats (followers, following, projects)
+                  - listitem [ref=e111]: Follow and Like action buttons
+                  - listitem [ref=e112]: Gradient header and modern styling with shadows and rounded corners
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e80]:
+        - generic [ref=f6e6]:
+          - generic [ref=f6e8]: SA
+          - heading "Sarah Anderson" [level=2] [ref=f6e9]
+          - paragraph [ref=f6e10]: Product Designer
+          - paragraph [ref=f6e11]: Crafting beautiful digital experiences
+          - generic [ref=f6e12]:
+            - img [ref=f6e13]
+            - generic [ref=f6e16]: San Francisco, CA
+          - generic [ref=f6e18]:
+            - generic [ref=f6e19]:
+              - paragraph [ref=f6e20]: 2,847
+              - paragraph [ref=f6e21]: Followers
+            - generic [ref=f6e22]:
+              - paragraph [ref=f6e23]: "342"
+              - paragraph [ref=f6e24]: Following
+            - generic [ref=f6e25]:
+              - paragraph [ref=f6e26]: "18"
+              - paragraph [ref=f6e27]: Projects
+          - generic [ref=f6e28]:
+            - button "Follow" [ref=f6e29] [cursor=pointer]
+            - button "Like" [ref=f6e30] [cursor=pointer]:
+              - img [ref=f6e31]
+              - text: Like
+  - alert [ref=e50]
