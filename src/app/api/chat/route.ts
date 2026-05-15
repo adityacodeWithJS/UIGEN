@@ -24,6 +24,9 @@ export async function POST(req: Request) {
     },
   });
 
+  abcd
+
+
   console.log("Received messages:");
   // Reconstruct the VirtualFileSystem from serialized data
   const fileSystem = new VirtualFileSystem();
